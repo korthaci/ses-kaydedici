@@ -1,4 +1,4 @@
-# Ses Kaydedici - Proje Raporu
+# Ses Kaydedici
 
 ## Uygulama Bilgisi
 - **Ad**: Ses Kaydedici
